@@ -16,3 +16,10 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Poll: AOT, Eren hero or villain?
 - News: Princess Mononoke image board artbook out Dec 3
 - News: Demon Slayer Infinity Castle Part 2 won't be out in 2026
+
+## 2026-11-08
+- News: Attack on Titan 3 game launches Dec 10 (PS5, Xbox Series, Switch 2, PC)
+- News: Ghibli Park Jan 2027 reservations open Nov 10, 2pm Japan time
+- Vote: best Chainsaw Man character? Pochita, Denji, Power, Makima
+- Poll: favorite Genshin region, Mondstadt or Snezhnaya
+- Quiz: which Naruto hidden village would you live in?

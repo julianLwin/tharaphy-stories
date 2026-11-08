@@ -1,0 +1,173 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Engagement Stories</title>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=M+PLUS+Rounded+1c:wght@700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #2b1b3d;
+    --pink: #ffb7d5;
+    --pink-d: #f27bb0;
+    --lav: #c8b6ff;
+    --lav-d: #8f73f0;
+    --mint: #b8f2e6;
+    --mint-d: #3fb89c;
+    --cream: #fff6ec;
+    --sun: #ffe29a;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1920px; overflow: hidden; background: var(--cream); }
+  body { font-family: 'Fredoka', sans-serif; color: var(--ink); }
+  .slide { display: none; position: relative; width: 1080px; height: 1920px; overflow: hidden; padding: 150px 90px 0; }
+  .slide.on { display: flex; flex-direction: column; align-items: center; justify-content: center; padding-bottom: 120px; }
+  .slide > * { position: relative; }
+  .dots { position: absolute !important; inset: 0; background-image: radial-gradient(rgba(43,27,61,.09) 4px, transparent 5px); background-size: 48px 48px; }
+  .deco { position: absolute !important; }
+  .jp { font-family: 'M PLUS Rounded 1c', sans-serif; font-weight: 800; letter-spacing: 6px; }
+  .badge { font-size: 42px; font-weight: 700; letter-spacing: 3px; padding: 18px 46px; border-radius: 999px; border: 5px solid var(--ink); background: #fff; box-shadow: 8px 8px 0 var(--ink); text-transform: uppercase; }
+  h1 { font-weight: 700; line-height: 1.02; text-align: center; margin-top: 60px; }
+  .card { background: #fff; border: 6px solid var(--ink); border-radius: 48px; box-shadow: 14px 14px 0 var(--ink); width: 100%; }
+  .body { font-size: 48px; font-weight: 500; line-height: 1.35; text-align: center; }
+  .body b { font-weight: 700; }
+  .zone { width: 820px; height: 300px; flex: none; }
+  .zone, .news .zone, #s7 .zone { border: none !important; background: none !important; }
+  .foot { position: absolute !important; bottom: 110px; left: 0; right: 0; text-align: center; font-size: 40px; font-weight: 600; }
+  .hl { background: linear-gradient(transparent 55%, var(--sun) 55%); padding: 0 6px; }
+
+  /* tip slides */
+  .tip h1 { font-size: 120px; }
+  .tip .card { margin-top: 70px; padding: 60px 64px; }
+  .steps { list-style: none; display: flex; flex-direction: column; gap: 40px; }
+  .steps li { display: flex; gap: 36px; align-items: flex-start; font-size: 46px; font-weight: 500; line-height: 1.3; }
+  .steps .n { flex: none; width: 92px; height: 92px; border-radius: 50%; border: 5px solid var(--ink); display: flex; align-items: center; justify-content: center; font-size: 50px; font-weight: 700; margin-top: -10px; }
+  .why { margin-top: 60px; font-size: 44px; font-weight: 600; text-align: center; line-height: 1.3; }
+
+  /* news slides */
+  .news { background: var(--ink); color: #fff; }
+  .news .dots { background-image: radial-gradient(rgba(255,255,255,.08) 4px, transparent 5px); }
+  .news .badge { background: var(--pink); color: var(--ink); border-color: var(--pink); box-shadow: 8px 8px 0 var(--lav-d); }
+  .news h1 { font-size: 128px; }
+  .news .date { margin-top: 50px; font-size: 64px; font-weight: 700; color: var(--ink); background: var(--mint); padding: 18px 56px; border-radius: 28px; transform: rotate(-3deg); }
+  .news .body { margin-top: 70px; color: rgba(255,255,255,.88); }
+  .news .zone { margin-top: 90px; border-color: rgba(255,255,255,.3); }
+  .news .foot { color: rgba(255,255,255,.7); }
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <path id="spark" d="M0,-50 C6,-6 6,-6 50,0 C6,6 6,6 0,50 C-6,6 -6,6 -50,0 C-6,-6 -6,-6 0,-50Z"/>
+    <g id="yarn">
+      <circle r="130" fill="var(--pink)"/>
+      <g fill="none" stroke="var(--pink-d)" stroke-width="10" stroke-linecap="round">
+        <path d="M-110,-60 C-40,-110 60,-110 115,-50"/>
+        <path d="M-125,0 C-50,-60 70,-60 128,10"/>
+        <path d="M-105,70 C-40,10 70,20 110,75"/>
+        <path d="M-40,-122 C-90,-30 -70,70 -20,128"/>
+        <path d="M50,-120 C10,-30 30,70 80,105"/>
+      </g>
+      <circle r="130" fill="none" stroke="var(--ink)" stroke-width="8"/>
+      <ellipse cx="-42" cy="5" rx="12" ry="17" fill="var(--ink)"/>
+      <ellipse cx="42" cy="5" rx="12" ry="17" fill="var(--ink)"/>
+      <circle cx="-38" cy="-1" r="4" fill="#fff"/>
+      <circle cx="46" cy="-1" r="4" fill="#fff"/>
+      <ellipse cx="-72" cy="40" rx="20" ry="11" fill="#ff8fb8" opacity=".8"/>
+      <ellipse cx="72" cy="40" rx="20" ry="11" fill="#ff8fb8" opacity=".8"/>
+      <path d="M-14,32 Q-7,44 0,34 Q7,44 14,32" fill="none" stroke="var(--ink)" stroke-width="6" stroke-linecap="round"/>
+    </g>
+  </defs>
+</svg>
+<style>
+  .chips { display: flex; flex-wrap: wrap; gap: 26px; justify-content: center; margin-top: 60px; width: 100%; }
+  .chips div { font-size: 50px; font-weight: 700; padding: 20px 44px; border-radius: 999px; border: 5px solid var(--ink); box-shadow: 6px 6px 0 var(--ink); background: #fff; }
+  .frame { margin-top: 50px; width: 760px; height: 600px; flex: none; border-radius: 48px; border: 6px dashed rgba(255,255,255,.4); display: flex; align-items: center; justify-content: center; text-align: center; font-size: 36px; line-height: 1.3; color: rgba(255,255,255,.5); padding: 40px; }
+  .frame.lt { border-color: rgba(43,27,61,.3); color: rgba(43,27,61,.45); }
+  .vs { display: flex; gap: 40px; margin-top: 70px; width: 100%; align-items: stretch; }
+  .vs .card { flex: 1; padding: 50px 20px; text-align: center; }
+  .vs .ic { font-size: 110px; line-height: 1.1; }
+  .vs .nm { font-size: 56px; font-weight: 700; margin-top: 18px; line-height: 1.05; }
+  .news h1 { font-size: 100px; margin-top: 50px; }
+  .news .date { margin-top: 40px; font-size: 52px; }
+  .news .body { margin-top: 40px; font-size: 44px; }
+  .news .zone { margin-top: 30px; height: 200px; }
+  .news .foot { bottom: 90px; }
+</style>
+
+
+<!-- 1 · AOT game news -->
+<section class="slide news" id="s1">
+  <div class="dots"></div>
+  <svg class="deco" style="left:80px;top:140px" width="100" height="100" viewBox="-60 -60 120 120"><use href="#spark" fill="var(--lav)"/></svg>
+  <div class="badge" style="background:var(--lav);border-color:var(--lav)">attack on titan news</div>
+  <h1>Attack on Titan 3<br>the game<br>lands in Dec ⚔️</h1>
+  <div class="date" style="background:var(--mint)">Dec 10 · PS5 · Switch 2 · PC</div>
+  <p class="body">Koei Tecmo's new game also<br>comes to Xbox Series X|S</p>
+  <div class="frame">add your AOT<br>amigurumi photo here</div>
+  <div class="zone"></div>
+  <p class="foot">who are you playing as? ↑</p>
+</section>
+
+<!-- 2 · Ghibli Park news -->
+<section class="slide news" id="s2">
+  <div class="dots"></div>
+  <svg class="deco" style="right:90px;top:150px" width="100" height="100" viewBox="-60 -60 120 120"><use href="#spark" fill="var(--mint)"/></svg>
+  <div class="badge" style="background:var(--mint);border-color:var(--mint)">ghibli news</div>
+  <h1>Ghibli Park<br>tickets for<br>Jan 2027 🌳</h1>
+  <div class="date" style="background:var(--sun)">on sale Tue, Nov 10</div>
+  <p class="body">reservations open at 2pm Japan time<br>for the park in Aichi</p>
+  <div class="frame">add your Ghibli<br>amigurumi photo here</div>
+  <div class="zone"></div>
+  <p class="foot">dream trip? tell me ↑</p>
+</section>
+
+<!-- 3 · Chainsaw Man vote -->
+<section class="slide" id="s3" style="background:linear-gradient(170deg,var(--pink) 0%,var(--sun) 100%)">
+  <div class="dots"></div>
+  <svg class="deco" style="left:80px;top:120px" width="110" height="110" viewBox="-60 -60 120 120"><use href="#spark" fill="#fff" stroke="var(--ink)" stroke-width="5"/></svg>
+  <div class="badge">you decide</div>
+  <h1 style="font-size:112px">best Chainsaw<br>Man character?</h1>
+  <div class="chips" style="margin-top:70px">
+    <div>Pochita</div>
+    <div style="background:var(--lav)">Denji</div>
+    <div style="background:var(--mint)">Power</div>
+    <div style="background:var(--sun)">Makima</div>
+  </div>
+  <div class="zone" style="margin-top:60px"></div>
+  <p class="why" style="margin-top:0">one of them is getting stitched next 🪚</p>
+</section>
+
+<!-- 4 · Genshin poll -->
+<section class="slide" id="s4" style="background:var(--cream)">
+  <div class="dots"></div>
+  <svg class="deco" style="right:80px;top:130px" width="90" height="90" viewBox="-60 -60 120 120"><use href="#spark" fill="var(--mint)" stroke="var(--ink)" stroke-width="6"/></svg>
+  <div class="badge" style="background:var(--sun)">this or that</div>
+  <h1 style="font-size:110px">favorite Genshin<br>region?</h1>
+  <div class="vs">
+    <div class="card" style="background:var(--mint)"><div class="ic">🌬️</div><div class="nm">Mondstadt</div></div>
+    <div class="card" style="background:var(--lav)"><div class="ic">❄️</div><div class="nm">Snezhnaya</div></div>
+  </div>
+  <p class="why" style="margin-top:70px">freedom breeze or frosty vibes?<br>pick a side 👀</p>
+  <div class="zone" style="height:240px"></div>
+</section>
+
+<!-- 5 · Naruto quiz -->
+<section class="slide" id="s5" style="background:linear-gradient(170deg,#ffd3a8 0%,var(--pink) 100%)">
+  <div class="dots"></div>
+  <svg class="deco" style="left:80px;top:120px" width="100" height="100" viewBox="-60 -60 120 120"><use href="#spark" fill="#fff" stroke="var(--ink)" stroke-width="5"/></svg>
+  <div class="badge">naruto quiz</div>
+  <h1 style="font-size:116px">which hidden<br>village would<br>you live in?</h1>
+  <div class="chips">
+    <div>Leaf 🍃</div><div style="background:var(--sun)">Sand 🏜️</div><div style="background:var(--mint)">Mist 🌫️</div><div style="background:var(--lav)">Cloud ☁️</div>
+  </div>
+  <div class="zone" style="margin-top:60px"></div>
+  <p class="why" style="margin-top:0">no wrong answers (ramen is in Leaf) 🍥</p>
+</section>
+
+<script>
+  const s = new URLSearchParams(location.search).get('s') || '1';
+  document.getElementById('s' + s).classList.add('on');
+</script>
+</body>
+</html>
