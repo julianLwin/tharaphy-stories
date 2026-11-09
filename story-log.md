@@ -23,3 +23,9 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Vote: best Chainsaw Man character? Pochita, Denji, Power, Makima
 - Poll: favorite Genshin region, Mondstadt or Snezhnaya
 - Quiz: which Naruto hidden village would you live in?
+
+## 2026-11-09
+- Vote: which Demon Slayer Hashira next? Rengoku, Shinobu, Giyu, Tengen
+- Poll: One Piece, Luffy or Zoro?
+- Quiz: which Ghibli movie has Calcifer? (answer Howl's Moving Castle)
+- Poll: JJK, Nanami or Megumi?
