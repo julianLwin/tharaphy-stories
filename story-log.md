@@ -29,3 +29,10 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Poll: One Piece, Luffy or Zoro?
 - Quiz: which Ghibli movie has Calcifer? (answer Howl's Moving Castle)
 - Poll: JJK, Nanami or Megumi?
+
+## 2026-11-11
+- Vote: which ninja next? Kakashi, Sasuke, Itachi, Hinata
+- Poll: Chainsaw Man, Pochita or Meowy?
+- Quiz: which Ghibli movie has a bathhouse for spirits? (answer Spirited Away)
+- Poll: Genshin main element, Pyro or Cryo?
+- Poll: Demon Slayer sidekick, Zenitsu or Inosuke?
