@@ -36,3 +36,10 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Quiz: which Ghibli movie has a bathhouse for spirits? (answer Spirited Away)
 - Poll: Genshin main element, Pyro or Cryo?
 - Poll: Demon Slayer sidekick, Zenitsu or Inosuke?
+
+## 2026-11-13
+- News: THE ONE PIECE (WIT Studio, Netflix remake, East Blue, 7 eps) premieres Feb 2027
+- News: JJK on Jump Festa 2027 Super Stage, Dec 19–20 Chiba (fans hope for Season 4 date)
+- Poll: Ghibli movie night, Ponyo or Kiki's Delivery Service?
+- Poll: AOT, Levi or Mikasa stronger soldier?
+- Vote: which Genshin character next? Zhongli, Raiden, Furina, Nahida
