@@ -43,3 +43,9 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Poll: Ghibli movie night, Ponyo or Kiki's Delivery Service?
 - Poll: AOT, Levi or Mikasa stronger soldier?
 - Vote: which Genshin character next? Zhongli, Raiden, Furina, Nahida
+
+## 2026-11-15
+- News: MAPPA Expo 15th Anniversary (Chainsaw Man, AOT, JJK) closes Dec 7 at Yurakucho Museum, Tokyo
+- Poll: Demon Slayer, Water Breathing or Flame Breathing?
+- Vote: which Straw Hat next? Nami, Chopper, Sanji, Robin
+- Quiz: which Ghibli movie has the Catbus? (answer My Neighbor Totoro)
