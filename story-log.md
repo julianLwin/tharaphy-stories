@@ -49,3 +49,10 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Poll: Demon Slayer, Water Breathing or Flame Breathing?
 - Vote: which Straw Hat next? Nami, Chopper, Sanji, Robin
 - Quiz: which Ghibli movie has the Catbus? (answer My Neighbor Totoro)
+
+## 2026-11-17
+- News: Naruto "Project Rasengan" roadmap (NYCC), more at Jump Festa 2027 Dec 19–20, Naruto Card Game worldwide June 2027
+- Poll: Demon Slayer siblings, Tanjiro or Nezuko?
+- Quiz: which Ghibli film is Ashitaka from? (answer Princess Mononoke)
+- Vote: best duo in JJK? Gojo+Geto, Yuji+Megumi, Nobara+Maki
+- Poll: South Park favorite, Cartman or Kenny?
