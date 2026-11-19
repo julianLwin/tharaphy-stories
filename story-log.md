@@ -56,3 +56,10 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Quiz: which Ghibli film is Ashitaka from? (answer Princess Mononoke)
 - Vote: best duo in JJK? Gojo+Geto, Yuji+Megumi, Nobara+Maki
 - Poll: South Park favorite, Cartman or Kenny?
+
+## 2026-11-19
+- News: Attack on Titan x Nijigen no Mori (Awaji Island) Survey Corps night walk + Hange quest, event closes Dec 13
+- Poll: South Park finale (Wed Nov 25, 10pm), Stan or Kyle?
+- Poll: Genshin favorite Archon, Venti or Zhongli
+- Quiz: what does Ponyo love to eat most? (answer ham)
+- Poll: Demon Slayer best arc, Mugen Train or Entertainment District
