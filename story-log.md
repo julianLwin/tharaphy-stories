@@ -63,3 +63,10 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Poll: Genshin favorite Archon, Venti or Zhongli
 - Quiz: what does Ponyo love to eat most? (answer ham)
 - Poll: Demon Slayer best arc, Mugen Train or Entertainment District
+
+## 2026-11-21
+- News: Jump Festa 2027 Super Stage Dec 20 – Demon Slayer cast (Tanjiro, Nezuko, Zenitsu, Inosuke VAs) and all 10 One Piece Straw Hat voice actors
+- News: new Studio Ghibli x Uniqlo UT collection (Totoro, Spirited Away, Howl, Castle in the Sky) hits US late Jan 2027, $29.90
+- Slider: how much do you love Pochita? (Chainsaw Man)
+- Poll: Genshin player type, Explorer or Abyss fighter
+- Quiz: which wall is Shiganshina in? (answer Wall Maria)
