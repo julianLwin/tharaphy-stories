@@ -70,3 +70,9 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Slider: how much do you love Pochita? (Chainsaw Man)
 - Poll: Genshin player type, Explorer or Abyss fighter
 - Quiz: which wall is Shiganshina in? (answer Wall Maria)
+
+## 2026-11-23
+- News: Chainsaw Man Assassins Arc 2nd teaser at MAPPA 15th anniversary (director Tatsuya Yoshihara), expected 2027, no date yet
+- Quiz: what's the name of Kiki's black cat? (answer Jiji)
+- Poll: Naruto, Team 7 fave, Naruto or Sakura
+- Vote: which Straw Hat next? Usopp, Franky, Brook, Jinbe
