@@ -76,3 +76,9 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Quiz: what's the name of Kiki's black cat? (answer Jiji)
 - Poll: Naruto, Team 7 fave, Naruto or Sakura
 - Vote: which Straw Hat next? Usopp, Franky, Brook, Jinbe
+
+## 2026-11-25
+- Poll: Genshin Pyro cutie to stitch, Klee or Hu Tao
+- Quiz: Naruto, name of the Nine-Tails inside Naruto? (answer Kurama)
+- Poll: Ghibli cozy movie night, Howl's Moving Castle or Castle in the Sky
+- Quiz: JJK, which sorcerer uses Limitless? (answer Gojo)
