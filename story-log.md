@@ -82,3 +82,10 @@ Every story already made for @tharaphyny_amigurumi. Each scheduled run reads thi
 - Quiz: Naruto, name of the Nine-Tails inside Naruto? (answer Kurama)
 - Poll: Ghibli cozy movie night, Howl's Moving Castle or Castle in the Sky
 - Quiz: JJK, which sorcerer uses Limitless? (answer Gojo)
+
+## 2026-11-27
+- News: Jump Festa 2027 (Dec 19–20, Makuhari Messe, Chiba) Super Stage lineup includes Demon Slayer, JJK, Naruto, One Piece, Chainsaw Man
+- Poll: AOT, Erwin or Hange?
+- Quiz: who does Sheeta meet in Castle in the Sky? (answer Pazu)
+- Poll: South Park, Butters or Randy?
+- Quiz: how many elements in Genshin Impact? (answer 7)
